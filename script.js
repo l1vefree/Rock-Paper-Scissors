@@ -42,7 +42,7 @@ function game() {
 		alert("Congrats you've won the game!");
 	} else if (playerScore < computerScore) {
 		alert("Sorry you've lost the game!");
-	} else alert("You've tied");
+	} else alert("You've tied!");
 }
 
 game();
